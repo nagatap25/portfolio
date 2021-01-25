@@ -1,0 +1,102 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nagata_sine.com" resolutions="1x" timestamp="1611586096578">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3879415058" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="365767925" ref="index"/>
+    <file name="nomq_index.css" crc="4202315000" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="minion pro.woff" crc="3925949379"/>
+    <file name="minion pro.eot" crc="3954570455"/>
+    <file name="minion pro.svg" crc="476459748"/>
+  </folder>
+  <folder name="assets">
+    <file name="115825025_3253894777966507_8186556533812744115_n.mp4" crc="122893587" seo="true" mt="1611478458000"/>
+    <file name="109844949_1158861551147182_2557984200108548380_n.mp4" crc="130650604" seo="true" mt="1611478507000"/>
+    <file name="62322449_448014835979641_7252637965627800537_n.mp4" crc="444508781" seo="true" mt="1611481120000"/>
+    <file name="64373704_207000003607139_7927769485530267114_n.mp4" crc="4215039703" seo="true" mt="1611481357000"/>
+    <file name="62489933_203586177277789_9205940059813572151_n.mp4" crc="45897233" seo="true" mt="1611481642000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u2039.php" crc="172979734" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logotype@2x.png" crc="3989370932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 4@2x.png" crc="4065730225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 6@2x.png" crc="36597893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 7@2x.png" crc="3786935678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="screenshot_8.jpg" crc="9842603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_1.jpg" crc="3986235324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="artboard 8@2x.png" crc="3836526046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="75231117_281685509745542_52758264107829501_n.jpg" crc="524648507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-644019x801.svg" crc="3997716362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 644019x801_poster_.png" crc="4096899523" ref="index"/>
+    <file name="pasted-svg-643856x800.svg" crc="3827982310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 643856x800_poster_.png" crc="4200643666" ref="index"/>
+    <file name="logo white@2x.png" crc="212024910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 9@2x.png" crc="3864856757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 3@2x.png" crc="12436345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="63143193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3804767295" seo="true" mt="1611488131629" redirect="true"/>
+</manifest>
